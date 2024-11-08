@@ -1,13 +1,12 @@
 // Untuk soal
 const question = [
   {
-    question:
-      "Dibawah ini yang bukan termasuk tumbuhan yang berkembang biak secara alami dengan biji adalah …",
+    question: "Pemain Timnas Indonesia yang bermain di Venesia adalah …",
     answer: [
-      { text: " Pohon Mangga ", correct: false },
-      { text: " Jeruk ", correct: false },
-      { text: " Semangka ", correct: false },
-      { text: " Bambu", correct: true },
+      { text: " Idzes ", correct: true },
+      { text: " Haye ", correct: false },
+      { text: " Marselino ", correct: false },
+      { text: " Ernando ", correct: false },
     ],
   },
   {
@@ -17,6 +16,15 @@ const question = [
       { text: "Jentik", correct: true },
       { text: "Naymuk kecil", correct: false },
       { text: "Kepompong", correct: false },
+    ],
+  },
+  {
+    question: "Pemain Timnas Indonesia yang bermain di liga Inggris adalah … ?",
+    answer: [
+      { text: "Haye", correct: false },
+      { text: "Hubner", correct: true },
+      { text: "Ridho", correct: false },
+      { text: "Paes", correct: false },
     ],
   },
 ];
